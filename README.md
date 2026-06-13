@@ -34,10 +34,11 @@ I explored:
 
 I also investigated missing values and data quality issues to ensure reliable analysis.
 
-### Interactive Plots of first notebook 
+### Interactive Visualisations
 
-🔗 Live Plotly :
-https://smahi3003.github.io/Churn-analysis-project/categorical_distributions.html
+- [Categorical Distributions](https://smahi3003.github.io/Churn-Prediction-ML/interactive_plots/categorical_distributions.html)
+
+- [Categorical Distributions with Churn](https://smahi3003.github.io/Churn-Prediction-ML/interactive_plots/categorical_distributions_with_churn.html)
 
 ### Step 2: Data Cleaning
 
